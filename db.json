@@ -1,0 +1,572 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "name": "Claus Hansen",
+      "points_from_earlier": 1340.52
+    },
+    {
+      "id": 2,
+      "name": "Lars Broholm",
+      "points_from_earlier": 1292.25
+    },
+    {
+      "id": 3,
+      "name": "Rune Jeppesen",
+      "points_from_earlier": 1290.13
+    },
+    {
+      "id": 4,
+      "name": "Torben Musse Radoor",
+      "points_from_earlier": 1039.54
+    },
+    {
+      "id": 5,
+      "name": "Ole Andersen",
+      "points_from_earlier": 1024.19
+    },
+    {
+      "id": 6,
+      "name": "Nikolai Alnor",
+      "points_from_earlier": 979.77
+    },
+    {
+      "id": 7,
+      "name": "Jan Storgaard",
+      "points_from_earlier": 977.65
+    },
+    {
+      "id": 8,
+      "name": "Poul Bjerre-Jacobsen",
+      "points_from_earlier": 879.32
+    },
+    {
+      "id": 9,
+      "name": "Kanokpol Chaisrihar",
+      "points_from_earlier": 856.76
+    },
+    {
+      "id": 10,
+      "name": "Harald Schultz",
+      "points_from_earlier": 837.38
+    },
+    {
+      "id": 11,
+      "name": "Mogens Adriansen",
+      "points_from_earlier": 755.12
+    },
+    {
+      "id": 12,
+      "name": "Kevin Vo",
+      "points_from_earlier": 733.44
+    },
+    {
+      "id": 13,
+      "name": "Marco Donnerup",
+      "points_from_earlier": 663.26
+    },
+    {
+      "id": 14,
+      "name": "Michael Birk",
+      "points_from_earlier": 661.05
+    },
+    {
+      "id": 15,
+      "name": "Tommy Knoth",
+      "points_from_earlier": 610.12
+    },
+    {
+      "id": 16,
+      "name": "Jacob Larsen",
+      "points_from_earlier": 601.84
+    },
+    {
+      "id": 17,
+      "name": "Adam Larsen",
+      "points_from_earlier": 595.7
+    },
+    {
+      "id": 18,
+      "name": "Dan Bentsen",
+      "points_from_earlier": 575.28
+    },
+    {
+      "id": 19,
+      "name": "Nicklas Buchgraitz",
+      "points_from_earlier": 461.21
+    },
+    {
+      "id": 20,
+      "name": "Lars Klinkby",
+      "points_from_earlier": 452.32
+    },
+    {
+      "id": 21,
+      "name": "Jesper Gertz",
+      "points_from_earlier": 440.22
+    },
+    {
+      "id": 22,
+      "name": "Kevin Gotfredsen",
+      "points_from_earlier": 433.2
+    },
+    {
+      "id": 23,
+      "name": "Kenny Veiling Christensen",
+      "points_from_earlier": 404.02
+    },
+    {
+      "id": 24,
+      "name": "Sebastian Broholm",
+      "points_from_earlier": 373.61
+    },
+    {
+      "id": 25,
+      "name": "Benjamin Salomonsen",
+      "points_from_earlier": 346.7
+    },
+    {
+      "id": 26,
+      "name": "Allan Benediktson",
+      "points_from_earlier": 339.19
+    },
+    {
+      "id": 27,
+      "name": "Christoffer Munk",
+      "points_from_earlier": 322.97
+    },
+    {
+      "id": 28,
+      "name": "Hung Dinh",
+      "points_from_earlier": 250.03
+    },
+    {
+      "id": 29,
+      "name": "David Andersen",
+      "points_from_earlier": 249.98
+    },
+    {
+      "id": 30,
+      "name": "Tho Dam",
+      "points_from_earlier": 243.99
+    },
+    {
+      "id": 31,
+      "name": "S N",
+      "points_from_earlier": 239.16
+    },
+    {
+      "id": 32,
+      "name": "Andreas Kjerstad",
+      "points_from_earlier": 236.49
+    },
+    {
+      "id": 33,
+      "name": "Poul Strøyer",
+      "points_from_earlier": 226.14
+    },
+    {
+      "id": 34,
+      "name": "Henning Hansen",
+      "points_from_earlier": 202.63
+    },
+    {
+      "id": 35,
+      "name": "Emil Olsen",
+      "points_from_earlier": 201.9
+    },
+    {
+      "id": 36,
+      "name": "Hjalmar Marx Hentze",
+      "points_from_earlier": 199.91
+    },
+    {
+      "id": 37,
+      "name": "Bo Gundersen",
+      "points_from_earlier": 197.74
+    },
+    {
+      "id": 38,
+      "name": "Simon Hansen",
+      "points_from_earlier": 192.25
+    },
+    {
+      "id": 39,
+      "name": "Ghost",
+      "points_from_earlier": 186.5
+    },
+    {
+      "id": 40,
+      "name": "Catalin Comanita",
+      "points_from_earlier": 184.99
+    },
+    {
+      "id": 41,
+      "name": "Kim Jørgensen",
+      "points_from_earlier": 179.53
+    },
+    {
+      "id": 42,
+      "name": "Morten Sørensen",
+      "points_from_earlier": 179.22
+    },
+    {
+      "id": 43,
+      "name": "Phi Nguyen",
+      "points_from_earlier": 169.62
+    },
+    {
+      "id": 44,
+      "name": "Thomas Hinze",
+      "points_from_earlier": 166.99
+    },
+    {
+      "id": 45,
+      "name": "Martin Skytte",
+      "points_from_earlier": 163.49
+    },
+    {
+      "id": 46,
+      "name": "Frydenlund !!",
+      "points_from_earlier": 156.8
+    },
+    {
+      "id": 47,
+      "name": "Jonathan Printzlau",
+      "points_from_earlier": 154.3
+    },
+    {
+      "id": 48,
+      "name": "Søren Bøg",
+      "points_from_earlier": 150.68
+    },
+    {
+      "id": 49,
+      "name": "Jakob Talbro",
+      "points_from_earlier": 148.46
+    },
+    {
+      "id": 50,
+      "name": "Kasper Christoffersen",
+      "points_from_earlier": 147.81
+    },
+    {
+      "id": 51,
+      "name": "Danni Dahl Jørgensen",
+      "points_from_earlier": 144.31
+    },
+    {
+      "id": 52,
+      "name": "Thomas Christensen",
+      "points_from_earlier": 142.99
+    },
+    {
+      "id": 53,
+      "name": "Johnni Hansen",
+      "points_from_earlier": 136.52
+    },
+    {
+      "id": 54,
+      "name": "Jesper Nielsen",
+      "points_from_earlier": 133.9
+    },
+    {
+      "id": 55,
+      "name": "Daniel Spro",
+      "points_from_earlier": 133.53
+    },
+    {
+      "id": 56,
+      "name": "Lars Munk Jensen",
+      "points_from_earlier": 126.4
+    },
+    {
+      "id": 57,
+      "name": "Jannik Grodt",
+      "points_from_earlier": 124.5
+    },
+    {
+      "id": 58,
+      "name": "Louis Larsen",
+      "points_from_earlier": 123.94
+    },
+    {
+      "id": 59,
+      "name": "Carsten Petersen",
+      "points_from_earlier": 122.5
+    },
+    {
+      "id": 60,
+      "name": "Camilla Østergaard",
+      "points_from_earlier": 121.64
+    },
+    {
+      "id": 61,
+      "name": "Oliver Koch Sørensen",
+      "points_from_earlier": 119.78
+    },
+    {
+      "id": 62,
+      "name": "Karolis Freitagas",
+      "points_from_earlier": 119.35
+    },
+    {
+      "id": 63,
+      "name": "Glenn Christensen",
+      "points_from_earlier": 117.17
+    },
+    {
+      "id": 64,
+      "name": "Frank Bekker",
+      "points_from_earlier": 117.14
+    },
+    {
+      "id": 65,
+      "name": "Bilal Chaker",
+      "points_from_earlier": 115.11
+    },
+    {
+      "id": 66,
+      "name": "Ciuca Alexandru",
+      "points_from_earlier": 112.7
+    },
+    {
+      "id": 67,
+      "name": "Bjarke Fohlmann",
+      "points_from_earlier": 111.95
+    },
+    {
+      "id": 68,
+      "name": "Romas Vanafridas",
+      "points_from_earlier": 107.31
+    },
+    {
+      "id": 69,
+      "name": "Daniel Melson",
+      "points_from_earlier": 99.63
+    },
+    {
+      "id": 70,
+      "name": "Leonardo Crafa",
+      "points_from_earlier": 96.57
+    },
+    {
+      "id": 71,
+      "name": "Kasper Eriksen",
+      "points_from_earlier": 96
+    },
+    {
+      "id": 72,
+      "name": "Jimmy Sjøstrøm",
+      "points_from_earlier": 92.99
+    },
+    {
+      "id": 73,
+      "name": "Kim Hansen",
+      "points_from_earlier": 91.16
+    },
+    {
+      "id": 74,
+      "name": "Morten Nielsen",
+      "points_from_earlier": 89.79
+    },
+    {
+      "id": 75,
+      "name": "Ronni Jakobsen",
+      "points_from_earlier": 89.06
+    },
+    {
+      "id": 76,
+      "name": "Jacob Andersen",
+      "points_from_earlier": 88.61
+    },
+    {
+      "id": 77,
+      "name": "Jan K Andersen",
+      "points_from_earlier": 82.81
+    },
+    {
+      "id": 78,
+      "name": "Kenneth Hansen",
+      "points_from_earlier": 80.47
+    },
+    {
+      "id": 79,
+      "name": "Thomas Holtzmann",
+      "points_from_earlier": 79.18
+    },
+    {
+      "id": 80,
+      "name": "Louis Larsen",
+      "points_from_earlier": 78.29
+    },
+    {
+      "id": 81,
+      "name": "Per Christensen",
+      "points_from_earlier": 75.57
+    },
+    {
+      "id": 82,
+      "name": "Martin Rømer",
+      "points_from_earlier": 72.82
+    },
+    {
+      "id": 83,
+      "name": "Mads Fredsøe",
+      "points_from_earlier": 71.51
+    },
+    {
+      "id": 84,
+      "name": "Christian Johannessen",
+      "points_from_earlier": 70.05
+    },
+    {
+      "id": 85,
+      "name": "Peter Therkelsen",
+      "points_from_earlier": 67.71
+    },
+    {
+      "id": 86,
+      "name": "Ulrik Pedersen",
+      "points_from_earlier": 67.02
+    },
+    {
+      "id": 87,
+      "name": "Poul Coong",
+      "points_from_earlier": 64.51
+    },
+    {
+      "id": 88,
+      "name": "Kian Rezai",
+      "points_from_earlier": 64.36
+    },
+    {
+      "id": 89,
+      "name": "Christopher Warren",
+      "points_from_earlier": 62.92
+    },
+    {
+      "id": 90,
+      "name": "Mikkel Hansen",
+      "points_from_earlier": 60.64
+    },
+    {
+      "id": 91,
+      "name": "Lea Bolander Krengel",
+      "points_from_earlier": 60.6
+    },
+    {
+      "id": 92,
+      "name": "Leif Andersen",
+      "points_from_earlier": 59.68
+    },
+    {
+      "id": 93,
+      "name": "Bjarne Andersen",
+      "points_from_earlier": 58.33
+    },
+    {
+      "id": 94,
+      "name": "Samuel Holm",
+      "points_from_earlier": 55
+    },
+    {
+      "id": 95,
+      "name": "Tina Hansen",
+      "points_from_earlier": 53.71
+    },
+    {
+      "id": 96,
+      "name": "Heinz Serup",
+      "points_from_earlier": 50.55
+    },
+    {
+      "id": 97,
+      "name": "Thomas Kruse",
+      "points_from_earlier": 50.17
+    },
+    {
+      "id": 98,
+      "name": "Oliver Koertz",
+      "points_from_earlier": 44.89
+    },
+    {
+      "id": 99,
+      "name": "Ahmad El-Abed",
+      "points_from_earlier": 42.43
+    },
+    {
+      "id": 100,
+      "name": "Anders Thomsen",
+      "points_from_earlier": 42
+    },
+    {
+      "name": "anders and",
+      "points_from_earlier": 123,
+      "id": 101
+    }
+  ],
+  "tournaments": [
+    {
+      "id": 1,
+      "date": "2026-01-31",
+      "participants": [
+        {
+          "playerId": 3,
+          "prize": null,
+          "place": 6,
+          "registeredLate": true
+        },
+        {
+          "id": 1769879703268,
+          "playerId": 1,
+          "prize": null,
+          "place": 7,
+          "registeredLate": false
+        },
+        {
+          "id": 1769879721221,
+          "playerId": 4,
+          "prize": 10000,
+          "place": 0,
+          "registeredLate": false
+        },
+        {
+          "id": 1769879795067,
+          "playerId": 5,
+          "prize": 5000,
+          "place": 0,
+          "registeredLate": false
+        },
+        {
+          "id": 1769879797948,
+          "playerId": 29,
+          "prize": 1000,
+          "place": 0,
+          "registeredLate": false
+        },
+        {
+          "id": 1769888038484,
+          "playerId": 2,
+          "prize": null,
+          "place": 0,
+          "registeredLate": false
+        },
+        {
+          "id": 1769888255261,
+          "playerId": 7,
+          "prize": null,
+          "place": 0,
+          "registeredLate": false
+        },
+        {
+          "id": 1769888255262,
+          "playerId": 9,
+          "prize": null,
+          "place": 0,
+          "registeredLate": false
+        }
+      ]
+    }
+  ]
+}
