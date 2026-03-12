@@ -585,14 +585,14 @@
       "participants": [
         {
           "playerId": 102,
-          "prize": 1000,
+          "prize": 200,
           "place": null,
           "registeredLate": false
         },
         {
-          "playerId": null,
-          "prize": null,
-          "place": 3,
+          "playerId": 103,
+          "prize": 300,
+          "place": null,
           "registeredLate": true
         }
       ],
