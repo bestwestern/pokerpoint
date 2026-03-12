@@ -504,6 +504,18 @@
       "name": "anders and",
       "points_from_earlier": 123,
       "id": 101
+    },
+    {
+      "name": "fornavn efternavn",
+      "points_from_earlier": 4.65,
+      "email": "nisdoiksd@ojkdfgd.com",
+      "id": 102
+    },
+    {
+      "name": "test test1",
+      "points_from_earlier": 10,
+      "email": "test@testsddssd.com",
+      "id": 103
     }
   ],
   "tournaments": [
@@ -567,6 +579,24 @@
           "registeredLate": false
         }
       ]
+    },
+    {
+      "date": "2026-03-07",
+      "participants": [
+        {
+          "playerId": 102,
+          "prize": 1000,
+          "place": null,
+          "registeredLate": false
+        },
+        {
+          "playerId": null,
+          "prize": null,
+          "place": 3,
+          "registeredLate": true
+        }
+      ],
+      "id": 2
     }
   ]
 }
